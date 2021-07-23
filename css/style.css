@@ -9855,3 +9855,11 @@ a:hover::after{
 .email-btn:hover > a {
   color: white;
 }
+
+.cstm-bg-blue{
+  
+
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 5px;
+}
