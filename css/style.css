@@ -9863,3 +9863,27 @@ a:hover::after{
   text-decoration-style: dotted;
   text-underline-offset: 5px;
 }
+.bg-yellow{
+  background-color: #ffface;
+  padding: 10px;
+  font-weight: 800;
+  color: black
+}
+
+.text-quote{
+  font-weight: 400;
+  color: gray
+}
+
+.color-icon{
+  color: white;
+  font-size: 24px;
+}
+.img-icon{
+  height: 40px;
+  width: 40px;
+}
+.img-icon-small{
+  height: 30px;
+  width: 30px;
+}
