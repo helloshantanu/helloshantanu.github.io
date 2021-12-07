@@ -9887,3 +9887,15 @@ a:hover::after{
   height: 30px;
   width: 30px;
 }
+
+@media only screen and (max-width: 600px) {
+  .sidenav{
+    display: none;
+  }
+  .logo-css{
+    display: none
+  }
+  .mouse{
+    display: none;
+  }
+}
